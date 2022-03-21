@@ -14,7 +14,7 @@ Ubuntu/Debian: `sudo apt install git gnome-tweaks`
 
 Manjaro/Arch Linux: `sudo pacman -S git gnome-tweak-tool`
 
-**Make sure the `user-themes` extension is enabled!**
+**FOR GNOME USERS:** Make sure the `user-themes` extension is enabled!
 
 
 <h2>2: Clone the repository</h2>
